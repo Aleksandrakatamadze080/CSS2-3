@@ -1,0 +1,342 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  #navigacia {
+    max-width: 1231px;
+    background: #F7F4FF;
+    padding: 12px 24px;
+    margin-left: auto;
+  }
+  
+  
+  #list {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 0 0 45px;
+    vertical-align: middle;
+    
+    
+  }
+  
+  #A, #W, #C, #H {
+    display: inline-block;
+    padding: 20px;
+    font-size: 18px;
+  
+  
+   
+  }
+  
+  #images {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 13.489px;
+    
+  }
+  
+  #nListDiv {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 171px;
+    
+  
+   
+  }
+  
+  #contact {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    color: #8E26C0;
+    
+  }
+  
+  #us {
+    display: inline-block;
+  
+  }
+  
+  
+  #foto {
+    display: inline-block;
+    max-width: 610px;
+    vertical-align: middle;
+  }
+  
+  
+  #heads {
+    display: inline-block;
+    max-width: 644px;
+    margin-left: 45px;
+    vertical-align: middle;
+    margin-bottom: -100px;
+  
+  }
+  
+  #mage {
+    max-width: 1350px;
+    margin: 154px auto 83px auto;
+  }
+  
+  
+   
+    
+  
+  
+  #listss {
+    text-align: center;
+    font-size: 40px;
+  
+  }
+  
+  
+  
+  #sit {
+    text-align: left;
+    color: #535862;
+    font-size: 23px;
+    padding: 16px 0;
+    
+  }
+  
+  #global {
+    padding: 45px;
+  }
+  
+  #G, #F, #I, #R {
+    padding-bottom: 12px;
+    font-size: 25px;
+  }
+  
+  
+  #contacs {
+    max-width: 1221px;
+    margin: 0 auto;
+  }
+  
+  #contactUsDiv {
+    max-width: 905px;
+    padding-top: 18px;
+    padding-bottom: 20px;
+  }
+  
+  #uss {
+    text-align: center;
+    font-size: 56px;
+   
+   
+  }
+  
+  #loren {
+    text-align: center;
+    font-size: 23px;
+    padding: 20px;
+  }
+  
+  #al {
+    max-width: 1221px;
+    background-color: #F7F4FF;
+    border-radius: 16px;
+    padding: 32px;
+    margin: 0 auto;
+  }
+  
+  #addres {
+    display: inline-block;
+    background-color: white;
+    border-radius: 17px;
+    vertical-align: middle;
+    padding: 20px;
+    height: 430px;
+  }
+  
+  #am {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  #adresl, #gm, #ph {
+    width: 56px;
+    height: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background: #F7F4FF;
+    margin-bottom: 24px;
+  }
+  
+  #imagel {
+    display: inline-block;
+    width: 60px;
+    vertical-align: top;
+   
+   
+  }
+  
+  #sm, #mails, #ph {
+    display: inline-block;
+    font-size: 20px;
+  }
+  
+  #hMail{
+    padding-top: 30px;
+  }
+  
+  #hP {
+    padding-top: 24px;
+  }
+  
+  #road, #curtis, #one {
+    font-size: 14px;
+    color: #6D5F8B;
+    padding: 7px 0;
+   
+  }
+  
+  #glen {
+    display: inline-block;
+    width: 230px;
+    vertical-align: top;
+    margin-top: 10px;
+  
+  }
+  
+  #smDiv {
+    padding-left: 24px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 32px;
+  
+  }
+  
+  #sm {
+   font-size: 32px;
+  }
+  
+  label {
+    display: block;
+    color: #1B003D;
+    font-size: 14px;
+    padding: 24px 0 6px 0;
+  }
+  
+  
+  input {
+    display: block;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+    
+  }
+  
+  #something {
+    height: 146px;
+    margin-top: 24px;
+    display: block;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+    margin-bottom: 24px;
+  }
+  
+  #send {
+    width: 140px;
+  padding: 12px 24px;
+  border-radius: 8px;
+  background: #8E26C0;
+  color: #FFF;
+  font-size: 16px;
+  margin-left: 560px;
+  }
+  
+  #product {
+    padding: 64px 0px 48px 0px;
+    background: #53389E;
+    margin-top: 163px;
+  }
+  
+  #are {
+    max-width: 1340px;
+    padding: 0px 32px;
+    margin: 0 auto;
+  }
+  ul {
+  list-style-type: none;
+  }
+  
+  #pt, #ov, #fe, #so, #tu, #pri, #rel,
+  #com, #ab, #ca, #pr, #ne, #me, #co,
+  #res, #bl, #re, #ev, #he, #tu, #su,
+  #us, #st, #en, #go, #sa, #ma, #ec,
+  #so, #tw, #li, #fa, #gi, #an, #dr,
+  #le, #te, #pr, #con, #li, #se, #cont 
+  {
+  color: #E9D7FE;
+  font-size: 18px;
+  margin-bottom: 12px;
+  }
+  
+  #pt, #com, #us, #so, #le{
+    font-size: 15px;
+    color: #E9D7FE;
+    margin-bottom: 12px;
+  }
+  
+  #so {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-bottom: 12px;
+  }
+  
+  #sButton {
+    border-radius: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.30);
+    background: rgba(255, 255, 255, 0.10);
+    padding: 2px 6px;
+    font-size: 12px;
+    color: white;
+    margin-left: 12px;
+  
+  }
+  
+  #One, #Two, #Three, #Four, #Five {
+    display: inline-block;
+    width: 176px;
+    margin-right: 32px;
+    margin-bottom: 64px;
+  }
+  
+  #Six {
+    display: inline-block;
+    width: 176px;
+    margin-bottom: 64px;
+  }
+  
+  #im {
+    border-top: 1px solid #7F56D9;
+    padding-top: 32px;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  
+  #wraps {
+    width: 42px;
+    height: 36px;
+    vertical-align: middle;
+  }
+  
+  #uImg {
+    width: 130px;
+    vertical-align: middle;
+  }
+  
+  #ui {
+    display: inline-block;
+    color: #D6BBFB;
+    font-size: 16px;
+    margin-left: 760px;
+  }
